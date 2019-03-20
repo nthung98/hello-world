@@ -1,0 +1,7 @@
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\Entity\bin\Debug\Entity.exe.config
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\Entity\bin\Debug\Entity.exe
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\Entity\bin\Debug\Entity.pdb
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\Entity\obj\Debug\Entity.exe
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\Entity\obj\Debug\Entity.pdb

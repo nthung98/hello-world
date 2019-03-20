@@ -1,0 +1,14 @@
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\bin\Debug\DAL.exe
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\bin\Debug\Entity.exe
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\bin\Debug\DAL.pdb
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\bin\Debug\DAL.exe.config
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\bin\Debug\Entity.pdb
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\bin\Debug\Entity.exe.config
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp1\obj\Debug\BUS.csproj.CopyComplete

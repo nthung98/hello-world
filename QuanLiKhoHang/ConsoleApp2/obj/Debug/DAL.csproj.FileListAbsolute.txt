@@ -1,0 +1,2 @@
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp2\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\ConsoleApp2\obj\Debug\DAL.csproj.CoreCompileInputs.cache

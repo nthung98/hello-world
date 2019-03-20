@@ -1,0 +1,11 @@
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\DAL\bin\Debug\DAL.exe.config
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\DAL\bin\Debug\DAL.exe
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\DAL\bin\Debug\DAL.pdb
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\DAL\obj\Debug\DAL.exe
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\DAL\obj\Debug\DAL.pdb
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\DAL\bin\Debug\Entity.exe
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\DAL\bin\Debug\Entity.pdb
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\DAL\bin\Debug\Entity.exe.config
+D:\MTA\Nam 3\Ki 2\QuanLiKhoHang\DAL\obj\Debug\DAL.csproj.CopyComplete
